@@ -12,6 +12,8 @@ class Coche {
     public $modelo = "sport";
     public $velocidad = 250;
     public $caballos = 400;
+
+    
     public $plazas = 5;
 
     // Metodos, son acciones que hace el objeto (antes funciones)
