@@ -32,5 +32,7 @@ class Coche {
         $this->velocidad--;
     }
 
-    
+    public function getVelocidad(){
+        return $this->velocidad;
+    }
 }
